@@ -1,0 +1,4 @@
+C:\Users\SGI\Desktop\Tシャツ用\Tシャツ用\bin\Debug\Tシャツ用.exe
+C:\Users\SGI\Desktop\Tシャツ用\Tシャツ用\bin\Debug\Tシャツ用.pdb
+C:\Users\SGI\Desktop\Tシャツ用\Tシャツ用\obj\Debug\Tシャツ用.exe
+C:\Users\SGI\Desktop\Tシャツ用\Tシャツ用\obj\Debug\Tシャツ用.pdb
